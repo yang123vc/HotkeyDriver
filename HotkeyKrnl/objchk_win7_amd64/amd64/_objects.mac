@@ -1,0 +1,16 @@
+
+
+AMD64_OBJECTS=\
+ $(OBJ_PATH)\$O\hotkeykrnl.obj \
+
+
+
+
+
+# lowercased
+BASEDIR=d:\lazycat\winddk\7600.16385.0
+OBJECT_ROOT=d:\lazycat\winddk\7600.16385.0
+MAKEDIR_LOWERCASE=e:\lazycat.proj\ing\hotkeysdk\hotkeykrnl
+OBJ_PATH=e:\lazycat.proj\ing\hotkeysdk\hotkeykrnl
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0

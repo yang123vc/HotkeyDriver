@@ -1,0 +1,5 @@
+LIBRARY "HotkeyUser.dll"
+
+EXPORTS
+ShadowRegisterHotKey
+ShadowUnRegisterAll

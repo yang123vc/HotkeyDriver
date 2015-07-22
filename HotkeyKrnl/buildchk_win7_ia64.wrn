@@ -1,0 +1,2 @@
+1>warnings in directory e:\lazycat.proj\ing\hotkeysdk\hotkeykrnl
+1>e:\lazycat.proj\ing\hotkeysdk\hotkeykrnl\hotkeykrnl.c(191) : warning C4996: 'RtlConvertLongToLargeInteger': was declared deprecated

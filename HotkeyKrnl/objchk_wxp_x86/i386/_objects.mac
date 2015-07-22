@@ -1,0 +1,16 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\hotkeykrnl.obj \
+
+
+
+
+
+# lowercased
+BASEDIR=d:\lazycat\winddk\760016~1.0
+OBJECT_ROOT=d:\lazycat\winddk\760016~1.0
+MAKEDIR_LOWERCASE=e:\lazyca~1.pro\ing\hotkey~2\hotkey~1
+OBJ_PATH=e:\lazyca~1.pro\ing\hotkey~2\hotkey~1
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0
